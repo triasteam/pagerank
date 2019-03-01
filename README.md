@@ -1,1 +1,2 @@
-# pagerank
+# pageraph
+weighted page rank
